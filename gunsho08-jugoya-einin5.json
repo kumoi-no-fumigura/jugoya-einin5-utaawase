@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jugoya-einin5-utaawase",
  "yomi": "じゅうごやうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十四番・月の三題）",
+  "era": "永仁5年（1297）8月15日",
+  "author": "判者 衆議",
+  "desc": "八月十五夜に寄月秋・寄月恋・寄月雑の三題で詠み合わせた二十四番の歌合。頼成・兼行・家親・俊光・定成や中宮・春宮の女房らが詠み、衆議で判を定めた。"
+ },
  "editions": [
   {
    "pid": "1879502",
